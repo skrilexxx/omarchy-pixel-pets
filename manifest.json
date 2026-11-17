@@ -5,7 +5,7 @@
   "version": "0.6.0",
   "author": "skrilexxx",
   "license": "MIT",
-  "description": "A pixel-art cat that lives on your desktop: she walks, naps, plays with yarn, chases your mouse, peeks over your windows, and reminds you to drink, eat and take breaks",
+  "description": "A pixel-art cat and dog that live on your desktop: they walk, nap, play with their toys and each other, chase your mouse, climb your windows, and remind you to drink, eat and take breaks",
   "kinds": [
     "service",
     "bar-widget"
@@ -16,7 +16,7 @@
   },
   "barWidget": {
     "displayName": "Pixel Pets",
-    "description": "Settings for your desktop pet",
+    "description": "Settings for your desktop pets",
     "category": "Fun",
     "allowMultiple": false,
     "defaultSection": "right"
